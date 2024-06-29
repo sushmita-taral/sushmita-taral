@@ -1,4 +1,4 @@
-![logo](https://github.com/sushmita-taral/Prisha-patil/blob/main/github_banner.jpg)
+![logo](https://wallpaperaccess.com/full/1338392.jpg)
 <h1 align="center">Hi 👋, I'm Sushmita Taral</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
